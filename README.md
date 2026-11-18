@@ -40,8 +40,6 @@ conda activate cats
 jupyter notebook cat_qubits_interactive.ipynb
 ```
 
-The whole notebook runs in under a minute. It was tested with QuTiP 5.3.
-
 ## The research behind it
 
 Section 8 simulates the effective CX Hamiltonian of Puri *et al.* (2020). The preprint below shows how to build that gate with a single asymmetrically threaded SQUID (ATS) coupler: a 50 ns CX with 99.69% fidelity without photon loss, which keeps the cats' noise bias.
