@@ -18,6 +18,7 @@ The notebook follows the talk slide by slide with short [QuTiP](https://qutip.or
 | 6 | Cat Qubit Control | Z gate; X gate with an optional lost photon |
 | 7 | Bias-Preserving X | rotating the walls, with an optional lost photon |
 | 8 | Bias-Preserving CX | the CX gate for control states 0, 1 and + |
+| 9 | Bonus: a lossy CX on a GPU with jaxquantum | |
 
 ## Run it
 
